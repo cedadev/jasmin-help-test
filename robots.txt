@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jasmin-help-test.jasmin.ac.uk/sitemap.xml
